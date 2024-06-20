@@ -8,7 +8,7 @@ setup(
     version='1.0.8',
     description='fastagi-tools is a python library specifically designed for developers working with FastAGI. The library offers the BaseToolkit and BaseTool classes, requierd for development of custom tools and toolkits for FastAGI.',
     author='fastagi',
-    author_email='info@fastagi.khulnasoft.com',
+    author_email='info@khulnasoft.com',
     packages=find_packages(),
     install_requires=['pydantic==1.10.13', 'PyYAML==6.0'],
     long_description=long_description,  # Include the README.md contents here
