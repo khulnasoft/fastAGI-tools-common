@@ -10,7 +10,7 @@ setup(
     author='fastagi',
     author_email='info@fastagi.khulnasoft.com',
     packages=find_packages(),
-    install_requires=['pydantic==1.10.8', 'PyYAML==6.0'],
+    install_requires=['pydantic==1.10.13', 'PyYAML==6.0'],
     long_description=long_description,  # Include the README.md contents here
     long_description_content_type="text/markdown",  # Specify the content type
 
